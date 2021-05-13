@@ -1,13 +1,4 @@
-/**********************************************
-Assignment 2
-Course: btp400 - winter 2021
-Author: Sammy, Mostafa, Shakha
-ID: 161334180
-Section: NAA
-This assignment represents my own work in accordance with Seneca Academic Policy.
-Signature
-Date: 2020-04-21
-**********************************************/
+
 package entity;
 
 import javafx.scene.image.Image;
@@ -18,7 +9,6 @@ import javafx.geometry.Rectangle2D;
 
 /**
  * class for the sprite
- * @author Sammy, Mostafa, Shakha
  *
  */
 public class Sprite
