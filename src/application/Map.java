@@ -1,13 +1,4 @@
-/**********************************************
-Assignment 2
-Course: btp400 - winter 2021
-Author: Sammy, Mostafa, Shakha
-ID: 161334180
-Section: NAA
-This assignment represents my own work in accordance with Seneca Academic Policy.
-Signature
-Date: 2020-04-21
-**********************************************/
+
 package application;
 
 import java.io.FileNotFoundException;
@@ -28,7 +19,7 @@ import javafx.scene.layout.BorderPane;
 
 /**
  * a class for the overworld, where players walk around
- * @author Sammy, Mostafa, Shakha
+ * 
  *
  */
 public class Map
