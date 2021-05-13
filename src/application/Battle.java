@@ -1,13 +1,4 @@
-/**********************************************
-Assignment 2
-Course: btp400 - winter 2021
-Author: Sammy, Mostafa, Shakha
-ID: 161334180
-Section: NAA
-This assignment represents my own work in accordance with Seneca Academic Policy.
-Signature
-Date: 2020-04-21
-**********************************************/
+
 package application;
 
 import java.io.FileInputStream;
@@ -37,11 +28,7 @@ import javafx.scene.layout.Priority;
 import javafx.scene.layout.RowConstraints;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
-/**
- * a class to hold the battle code
- * @author Sammy, Mostafa, Shakha
- * 
- */
+
 public class Battle
 {
 	private BorderPane pane;
